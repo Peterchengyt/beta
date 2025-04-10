@@ -49,9 +49,9 @@ const API_SITES = {
         api: 'https://dbzy.com',
         name: '豆瓣资源',
     },
-    snzy: {
-        api: 'https://suonizy.net/',
-        name: ' 索尼资源',
+    huawei: {
+        api: 'https://huawei8.live',
+        name: ' 华为资源',
     }
     
 };
