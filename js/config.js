@@ -48,7 +48,12 @@ const API_SITES = {
     dbzy: {
         api: 'https://dbzy.com',
         name: '豆瓣资源',
+    },
+    snzy: {
+        api: 'https://suonizy.net/',
+        name: ' 索尼资源',
     }
+    
 };
 
 // 添加聚合搜索的配置选项
